@@ -17,16 +17,17 @@ I am a **Data & Integration Architect**, with a strong interest in **DevSecOps**
 ### 🛠️ Technical Skills
 
 **Languages & Frameworks**
-- JavaScript / TypeScript
-- C#
-- R (Data Analysis)
-- SQL
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
+![C#](https://img.shields.io/badge/Code-C%23-green)
+![R (Data Analysis)](https://img.shields.io/badge/Code-R-lightblue)
+![SQL](https://img.shields.io/badge/Database-SQL-orange)
 
 **DevSecOps & Tools**
-- Docker
-- Kubernetes
+![Docker](https://img.shields.io/badge/Tools-Docker-blue)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-lightblue)
 - CI/CD Pipelines
-- Linux Administration
+![Linux Administration](https://img.shields.io/badge/OS-Linux-gray)
 - Git & GitHub
 
 **Areas of Interest**
@@ -50,12 +51,18 @@ I am a **Data & Integration Architect**, with a strong interest in **DevSecOps**
 
 ---
 
+### 📊 GitHub Stats
+![Amechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=camechi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camechi&layout=compact&theme=radical)  
+
+---
+
 ### 📫 Let's Connect
 
-- **Location**: Abuja, Nigeria
-- **Email**: [email to be provided]
-- **LinkedIn**: [CHUKWURA Amechi](https://www.linkedin.com/in/amechi-chukwura/)
-- **Portfolio**: [links to be provided]
+- 📍 Abuja, Nigeria 
+- 📧 [Email](mailto:camechi@local.dev.ng)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amechi-chukwura/)  
+- 🌐 [Portfolio](https://cacosystech.com.ng)
 
 ---
 
@@ -67,4 +74,7 @@ I am a **Data & Integration Architect**, with a strong interest in **DevSecOps**
 
 ---
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=camechi)
+
+---
 *Last updated: May 2026*

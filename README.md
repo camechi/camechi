@@ -17,18 +17,21 @@ I am a **Data & Integration Architect**, with a strong interest in **DevSecOps**
 ### 🛠️ Technical Skills
 
 **Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
-![C#](https://img.shields.io/badge/Code-C%23-green)
-![R](https://img.shields.io/badge/Code-R-lightblue)
-![SQL](https://img.shields.io/badge/Database-SQL-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
 **DevSecOps & Tools**
-![Docker](https://img.shields.io/badge/Tools-Docker-blue)
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-lightblue)
-![Linux](https://img.shields.io/badge/OS-Linux-gray)
-- CI/CD Pipelines
-- Git & GitHub
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-FF4500?style=flat)
+![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-4B0082?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
 
 **Areas of Interest**
 - Cloud Security
@@ -51,9 +54,17 @@ I am a **Data & Integration Architect**, with a strong interest in **DevSecOps**
 
 ---
 
-### 📊 GitHub Stats
-![Amechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=camechi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camechi&layout=compact&theme=radical)  
+### 🌍 Community Engagement
+
+- pro bono publico
+
+---
+
+### 📊 GitHub Statistics
+
+![Chukwura Amechi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camechi&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camechi&layout=compact&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=camechi&theme=github_dark)
 
 ---
 

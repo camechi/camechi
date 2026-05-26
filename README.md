@@ -20,14 +20,14 @@ I am a **Data & Integration Architect**, with a strong interest in **DevSecOps**
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
 ![C#](https://img.shields.io/badge/Code-C%23-green)
-![R (Data Analysis)](https://img.shields.io/badge/Code-R-lightblue)
+![R](https://img.shields.io/badge/Code-R-lightblue)
 ![SQL](https://img.shields.io/badge/Database-SQL-orange)
 
 **DevSecOps & Tools**
 ![Docker](https://img.shields.io/badge/Tools-Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-lightblue)
+![Linux](https://img.shields.io/badge/OS-Linux-gray)
 - CI/CD Pipelines
-![Linux Administration](https://img.shields.io/badge/OS-Linux-gray)
 - Git & GitHub
 
 **Areas of Interest**

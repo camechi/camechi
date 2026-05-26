@@ -62,8 +62,8 @@ I am a **Data & Integration Architect**, with a strong interest in **DevSecOps**
 
 ### 📊 GitHub Statistics
 
-![Chukwura Amechi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camechi&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camechi&layout=compact&theme=github_dark)
+![Chukwura Amechi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camechi&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camechi&layout=compact&theme=github_dark&langs_count=8&cache_seconds=1800)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=camechi&theme=github_dark)
 
 ---
